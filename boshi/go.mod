@@ -3,6 +3,7 @@ module boshi
 go 1.12
 
 require (
+	github.com/helloWotu/ILoveChaoyang v0.0.0-20191108103351-2b6d14295560 // indirect
 	github.com/json-iterator/go v1.1.8 // indirect
 	github.com/julienschmidt/httprouter v1.3.0 // indirect
 	github.com/klauspost/compress v1.9.1 // indirect
